@@ -1,2 +1,15 @@
-# umi3-ant
-react umi框架 Ant-Design UI库
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
