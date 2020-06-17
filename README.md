@@ -1,15 +1,7 @@
-# umi project
+# umi3
+react umi3实现的增删改查demo
 
-## Getting Started
+# 运用技术
+react、umi3、mockjs、less、axios、ant-design、typescript
 
-Install dependencies,
 
-```bash
-$ yarn
-```
-
-Start the dev server,
-
-```bash
-$ yarn start
-```
